@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "luan"
+  "cli": {
+    "analytics": "be9b9578-03e6-4bdc-824b-8668e5c0f171"
+  }
 }
