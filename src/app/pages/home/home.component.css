@@ -1,0 +1,159 @@
+.geral{
+    margin-top: 100px;
+    display: flex;
+    width: 100%;  
+    justify-content: center;  
+    background-image: url(../../../assets/imagens/bgBaner.png);
+}
+
+.centralizado{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 0;
+
+}
+
+.esquerda{
+    width: 323px;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+}
+
+.baner{
+    width: 323px;
+    height: 323px;    
+    
+}
+.cantorCorpo{
+    width: 167px;
+    height: 30px;
+    color: #fff;
+    background-color: #e31f20;
+    text-align: center;
+    padding: 4px;
+    font-size: 20px ;
+    
+}
+
+.nomeCorpo{
+    margin-top: 14px;
+    color: var(--unnamed-color-fcfcfc);
+    text-align: left;
+    font: normal normal bold 40px/1px Open Sans;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0px;
+    color: #FCFCFC;
+    opacity: 1;
+
+}
+
+.direita{
+    width: 572px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.textoBaner{
+    width: 100%;
+    color: #FCFCFC;
+    font: normal normal bold 20px/34px Open Sans;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tituloBaner{
+    text-align: left;
+    font: normal normal bold 36px/42px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    border-bottom: 1px solid #e31f20;
+    width: 60%;
+}
+
+.tituloVermelho{
+    color: #e31f20;
+}
+
+.botaoSaiba{
+    width: 240px;
+    height: 36px;
+    color: #fff;
+    background-color: #e31f20;
+    text-align: center;
+    font-size: 20px ;
+    display: flex;
+    justify-content: center;   
+    align-items: center; 
+
+}
+
+.stars{
+    width: 50px;
+    height: 50px;
+}
+
+.star1{
+    margin-left: -100%;
+}
+.star3{
+    margin-left: 90%;
+}
+
+.geral2{
+    display: flex;
+    width: 100%;  
+    justify-content: center;  
+    background-image: url(../../../assets/imagens/bg2.png);
+    background-size: cover;
+    padding-top: 102px;
+}
+
+.esquerda2{
+    width: 524px;
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+
+}
+
+.titulo2{
+    
+    color: #e31f20;
+    border-bottom: 1px solid #e31f20;
+    font: normal normal bold 36px/42px Open Sans;
+    font-family: 'Open Sans', sans-serif;
+    width: 60%;
+}
+
+.textoBaner2{
+    width: 100%;
+    color: #FCFCFC;
+    font: normal normal bold 20px/34px Open Sans;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.direita2{
+    margin-top: -80px;
+    width: 460px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.star2{
+    margin-bottom: 24px;
+}
+
+.star4{
+    margin-top: 24px;
+}
+
+
+
+
+
+
